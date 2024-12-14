@@ -1,89 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Conner Brown's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Conner Brown
+Business Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="cbrown9799@byui.edu">cbrown9799@byui.edu</a>
+| <a href="http://www.linkedin.com/in/conner-brown-">LinkedIn</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a Bachelor of Business Analytics at Brigham Young University - Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Data Analysis, Financial Modeling, SQL & Database Management, Power BI & Data Visualization
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Business Intelligence, Predictive Analytics, Financial Forecasting, Machine Learning Applications in Business
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 - December 2024`
+__Brigham Young University - Idaho, Rexburg, ID__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- Bachelor of Business Analytics
+- Minor in Business Finance
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2023`
+Dean's List, *Brigham Young University - Idaho*
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+`February 2022 - Present`
+__In House Technician__, Safe Streets USA (Authorized provider of ADT Security System), Rexburg, ID
 
+- Maintained good relations with customers experiencing issues with security systems.
+- Troubleshooted security system components like cameras, sensors, and panels.
+- Assisted escalated customers over the phone, providing solutions and ensuring satisfaction.
 
-## Publications
+`April 2021 - September 2021`
+__Mosquito Field Service Technician__, Benton County Mosquito Control District, Richland, WA
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Supervised an area of land, developing skills in pesticide application and customer relations.
+- Monitored over 100 areas weekly, ensuring the county was free from mosquito-related dangers.
 
-### Journals
+`April 2020 - September 2020`
+__Package Handler__, FedEx, Pasco, WA
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Managed a group of workers loading and preparing packages during the coronavirus pandemic.
+- Awarded Employee of the Month in July and August for teamwork, integrity, and responsibility.
 
-`1669`
-Lectiones opticæ.
+`October 2018 - April 2020`
+__Full-Time Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints, Saltillo, Mexico
 
-etc. etc. etc.
+- Served as a full-time volunteer, setting and achieving goals and providing service to others.
+- Developed work habits and communication skills, working in a foreign community.
 
-### Patents
+`August 2018 - October 2018`
+__Potato Harvest Worker__, Agri Northwest Farms, Plymouth, WA
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Oversaw potato sheds and a group of workers during the harvest season.
+- Gained endurance, responsibility, and experience through labor-intensive work.
 
+## Skills
 
-## Occupation
+- English (Native), Spanish (Fluent)
+- Microsoft Office (Word, Excel, PowerPoint Certification)
+- Ability to work in fast-paced and intense environments
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2024 -->
